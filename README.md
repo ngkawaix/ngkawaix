@@ -1,9 +1,3 @@
-# Ng Ka Wai
-
-Economics and History graduate (NTU) working on data analysis in Python, SQL and Power BI.
-Previously Assistant Director at Singapore's Ministry of Trade and Industry, supporting
-Deputy Prime Minister-level engagements on the future economy.
-
 ## Projects
 
 - **[CPF Contribution Rates, 1955 to 2026](https://github.com/ngkawaix/cpf-data-exploration)**
